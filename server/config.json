@@ -1,1 +1,11 @@
-{}
+{
+  "newest-version": "1.0",
+  "1.0":[
+    {
+      "Mods":"https://www.google.com",
+      "Config": "",
+      "Scripts": "",
+      "Forge":"1"
+    }
+  ]
+}
