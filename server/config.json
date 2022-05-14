@@ -1,10 +1,7 @@
 {
   "newest-version": "1.0",
   "1.0":{
-    "Mods":"https://www.google.com",
-    "Config": "",
-    "Scripts": "",
-    "KubeJS": "",
+    "Files":"https://www.google.com",
     "Forge":"1.18.1-39.1.2"
   }
 }
